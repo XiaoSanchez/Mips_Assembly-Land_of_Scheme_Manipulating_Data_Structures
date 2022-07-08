@@ -1,7 +1,6 @@
 # Land of Scheme - wizards Adventure Game
 
-evaluate to if ~player~ is ~#f~? How does this help with the previous question? Is ~and~ a regular function? How do you know?
-- This will return #f. This give us an conditional call ~and~ so that the expect will only print when player are exist(return #t). And is a regular function is all conditional function are considered regular like ~if~ ~or~ etc. Because they all takes the condition to evaluate. In this case print only #t.
+evaluate the weather and tell the cilent what type of clothes should wear today.
 
 ## Getting Started
 
@@ -22,13 +21,13 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-git clone https://github.com/XiaoSanchez/Mips-Assembly-land-of-scheme-manipulating-data-structures.git
+git clone https://github.com/XiaoSanchez/Mips-Assembly-What-to-Wear.git
 ```
 
 And repeat
 
 ```
-cd Mips-Assembly-land-of-scheme-manipulating-data-structures
+cd Mips-Assembly-What-to-Wear
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
